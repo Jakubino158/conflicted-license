@@ -1,0 +1,24 @@
+{
+  "name": "conflicted-license",
+  "version": "1.0.0",
+  "description": "fetch project dependencies and inform about possible license conflicts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jakubino158/conflicted-license.git"
+  },
+  "keywords": [
+    "package.json",
+    "node",
+    "license"
+  ],
+  "author": "Jakub Džačovský",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Jakubino158/conflicted-license/issues"
+  },
+  "homepage": "https://github.com/Jakubino158/conflicted-license#readme"
+}
