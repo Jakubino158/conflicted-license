@@ -1,3 +1,6 @@
+#biome lsp
+biome.json
+
 # Logs
 logs
 *.log
